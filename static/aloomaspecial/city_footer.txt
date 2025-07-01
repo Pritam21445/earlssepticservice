@@ -1,0 +1,44 @@
+<br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Do I need an ADA portable toilet for my job site project?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, you do! ADA portable toilets are important for inclusivity and accessibility, making sure everyone, especially people with disabilities, can use the restroom comfortably.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Who takes care of the sanitary unit while it's out on rent?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We do! Our professional maintenance team handles all upkeep once the unit is on-site. This includes waste removal, thorough cleaning, disinfecting, and restocking of supplies. Maintenance is carried out on a regular schedule based on the timeframe we agree upon with you.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do I need to provide water for the deluxe porta potty?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">No, you don’t have to. Our deluxe porta potties come pre-stocked with freshwater. If the water runs out, you can refill the tank under our guidance. And if there’s no nearby water source, we’ll bring a portable freshwater supply tank.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What if I don’t have a power outlet or sewage tank, how can I still use your restroom trailer effectively?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">No worries! You don’t need to provide power or a sewage tank. Our restroom trailers come equipped with wastewater holding tanks, and we supply a portable generator to power the unit. This way, your guests can fully enjoy the restroom experience without any stress.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
